@@ -22,7 +22,7 @@ const MyLocation = () => {
                 // to show the marker
                 position={center} >
                 <Popup>
-                    A pretty CSS3 popup. <br /> Easily customizable.
+                    A pretty  <br /> Easily customizable.
                 </Popup>
             </Marker>
         </MapContainer>
