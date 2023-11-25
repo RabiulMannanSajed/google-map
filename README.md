@@ -7,3 +7,5 @@
 
 * NPM
 * npm install react-leaflet
+* Must use this Css
+  import 'leaflet/dist/leaflet.css';
